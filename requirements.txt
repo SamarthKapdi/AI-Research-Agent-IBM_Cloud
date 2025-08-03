@@ -1,0 +1,8 @@
+Flask
+fastapi
+ibm-watson-machine-learning
+ibm-cloud-sdk-core
+transformers
+pypdf2
+requests
+streamlit
